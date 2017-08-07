@@ -20,9 +20,6 @@ Haeffele, Benjamin D., and Rene Vidal. "Global Optimality in Tensor
 Factorization, Deep Learning, and Beyond." arXiv preprint arXiv:1506.07540
 2015.
 
-Scripts and data used to generate the results/figures from the above 
-ICML 2014 paper will follow shortly.
-
 History:
     Aug 13, 2015 - First distribution of the code.
 
