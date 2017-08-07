@@ -8,7 +8,7 @@ function [A,Z,B,obj,A_norm,Z_norm,B_norm,L_stats] = FactorTVL1L2_v1(X,Da,Db,para
 %where r(A,Z) is a norm on the product A*Z'.
 %Here we use the regularization:
 %
-% r(A,Z) = sum_i (|Ai|_kA + |Zi|_kZ)
+% r(A,Z) = sum_i (|Ai|_kA * |Zi|_kZ)
 %
 %where Ai and Zi denote the i'th columns of A and Z, respectively, and
 %
